@@ -1,0 +1,17 @@
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\bin\Debug\MaHoaCoDien.exe.config
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\bin\Debug\MaHoaCoDien.exe
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\bin\Debug\MaHoaCoDien.pdb
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.csproj.AssemblyReference.cache
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.Form1.resources
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.Properties.Resources.resources
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.csproj.GenerateResource.cache
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.csproj.CoreCompileInputs.cache
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.exe
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.pdb
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.DonBang.resources
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.Vigenere.resources
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.Ceasar.resources
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.PlayFair.resources
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.Hill.resources
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.Affine.resources
+C:\Users\Tranh\source\repos\MaHoaCoDien\MaHoaCoDien\obj\Debug\MaHoaCoDien.Hang.resources
